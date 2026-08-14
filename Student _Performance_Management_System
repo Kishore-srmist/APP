@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Student {
+class Student_Performance_Management_System{
     int rollNo;
     String name;
     int[] marks = new int[3];
